@@ -8,6 +8,8 @@
     <name>DemoRestAPI Jersey Webapp</name>
     <build>
         <finalName>DemoRestAPI</finalName>
+		
+		
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
